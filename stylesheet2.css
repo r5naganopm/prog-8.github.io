@@ -313,7 +313,7 @@ a:hover:before{
 	transform: scale(1);
 }
 
-.absolute_test1 {
+.absolute_test16 {
     position:  absolute;        /* 要素の配置方法を指定 */
     padding:  0px;             /* 余白指定 */
     left:  0px;                /* 左からの位置指定 */
