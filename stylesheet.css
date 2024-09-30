@@ -417,7 +417,7 @@ a:hover:before{
     position:  absolute;        /* 要素の配置方法を指定 */
     padding:  0px;             /* 余白指定 */
     left:  0px;                /* 左からの位置指定 */
-    top: 360px;                  /* 上からの位置指定 */
+    top: 400px;                  /* 上からの位置指定 */
 text-decoration:underline;/*下線を引く*
 text-decoration-color:#FF0000;/*下線を赤色*
 }
